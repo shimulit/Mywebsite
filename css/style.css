@@ -1,0 +1,227 @@
+/* 
+    [ My Theame Name: MaXpro
+    css default setting Here 
+    margin,padding, box-sizing,font-family ]
+*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+ /* Logo-scction-here */
+.head{
+    background-color: #232323;
+    padding: 20px 20px;
+}
+/* Text-Logo-scction-here (Only Text Logo Use)*/
+.logo h1{
+    font-size:  25px;
+    font-weight: 800;
+    color: #fff;
+    margin: 0px 0px 0px 115px;
+}
+/* Head Bannar Part Start */
+.banner img{
+    width: 100%;
+}
+.banner h1{
+    margin-top: -650px;
+    padding-left: 480px;
+    font-size: 75px;
+    color: #fff;   
+}
+.banner h5{
+    padding-left: 480px;
+    font-size: 22px;
+    color: #eeeded;
+}
+/* Here Start About Section  */
+.about{
+    margin-top: 650px;
+}
+.about h1{
+    text-align: center;
+    color: #F56108;
+    font-size: 28px;
+}
+.about p{
+    width: 900px;
+    text-align: center;
+    margin: 25px 0px 60px 200px;
+    flood-color: #747474;
+}
+/* About- second Section Start */
+.about-second {
+ display: flex;
+}
+.about-second img {
+    width: 530px;
+    height: 355px;
+    margin: 0px 0px 100px 120px;
+}
+
+.textpart {
+    width: 500px;
+    margin: 2px 0px 0px 30px;
+}
+.textpart h4 {
+    margin-top: 28px;
+    color: #767676;
+}
+.textpart p {
+    font-size: 15px;
+    color: #7B7B7B;
+}
+/* About- second Section END */
+
+/* Service Section Start  */
+.services{
+    background-color: #E6E6E6;
+    height: 900px;
+}
+.services-one{
+    width: 800px;
+    text-align: center;
+    margin: 25px 0px 100px 300px;
+}
+.services-one h1 {
+    color: #F56108;
+    padding-top: 100px;
+    font-size: 35px;
+}
+.services-one p {
+    font-weight: 300;
+    padding-top: 20px; 
+}
+.services-second{ 
+    padding-left: 90px;
+
+}
+.box{
+    background: #fff; 
+    width: 350px; 
+    height: 232px; 
+    text-align: center;
+    margin: 25px 0px 0px 30px;
+    float: left;
+
+}
+.box img{
+    width: 50px;
+    padding-top: 28px;
+}
+.box h4{
+    padding-top: 10px;
+    font-size: 25px;
+
+}
+.box p{
+    padding: 10px 20px 5px 20px;
+    font-size: 15px;
+
+} /* Service Section END  */
+
+/* Section Here Portfolio Start */
+.porfolio-details{
+    margin-top: 100px;
+    text-align: center;
+}
+.porfolio{
+    height: 320px;
+}
+.porfolio h1{
+    color: #F56108;
+    padding: 22px;
+}
+.porfolio p{
+    width: 700px;
+    margin: 0 auto;
+}
+.all{
+    margin: 30px 50px;
+    width: 50px;
+    height: 35px;
+    background-color: #F56108;
+    border: 1px solid #F56108;
+    text-decoration: none;
+}
+
+.web{
+    margin: 0px 0px 0px -30px;
+    width: 50px;
+    height: 35px;
+    border: 1px solid #F56108;
+}
+.seo{
+    margin: 0px 0px 0px 30px;
+    width: 50px;
+    height: 35px;
+    border: 1px solid #F56108;
+    
+}
+.works{
+    margin: 0px 0px 0px 30px;
+    width: 66px;
+    height: 35px;
+    border: 1px solid #F56108;
+    
+}
+.brand{
+    margin: 0px 0px 0px 30px;
+    width: 66px;
+    height: 35px;
+    border: 1px solid #F56108;  
+}
+a{
+    text-decoration: none;
+    color: #F56108;
+}
+.all a{
+    text-decoration: none;
+    color: #fff;
+}  /* Section Here Portfolio END */
+
+ /* Section Here Stats Start */
+
+ .stats{
+     background: #E6E6E6;
+     height: 400px;
+ }
+ .stats-part h1{
+        padding-top: 80px;
+        font-size: 38px;
+        color: #F56108;
+        font-weight: 400;
+        text-align: center;
+ }
+ .stats-part p{
+     text-align: center;
+     width: 900px;
+     margin: 0 auto;
+     padding-top: 15px;
+ }
+
+.state-part-two{
+  margin: 50px 0px 30px 150px;
+  text-align: center;
+  float: left;
+  padding-left: 20px;
+
+}
+.state-part-two img{
+    width: 55px;
+}
+.state-part-two h4{
+    padding: 10px 10px;
+    font-weight: 350;
+}
+.state-part-two h1{
+    font-weight: 400;
+}
+.stats-area {
+    padding-left: 90px;
+}
+
+ /* Section Here Stats END */
