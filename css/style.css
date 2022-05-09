@@ -296,5 +296,51 @@ a{
 .pricing-table-one hr{
     opacity: 25%;
 }   /* Pricing-table-one starting Hera  */
-
 /* Pricing Table END */
+
+/* Section Here Team Start */
+.team-details{
+    margin-top: 750px;
+    text-align: center;
+    background-color: #1d1c1c;
+    height: 600px;
+    color: #fff;
+}
+.team{
+    height: 320px;
+}
+.team h1{
+    color: #fff;
+    padding: 100px;
+    font-size: 50px;
+}
+.team p{
+    width: 700px;
+    margin: 0 auto;
+    margin-top: -70px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+#photobox{
+    padding: 45px 10px;
+    float: left;
+}
+.phot-one{
+    margin-left: 190px;
+}
+.phot-one img{
+    width: 180px;
+    border: 3px solid burlywood;
+}
+.phot-one h4{
+    font-size: 15px;
+    padding-top: 10px;
+    font-weight: 400;
+}
+.phot-one h5{
+    width: 180px;
+    margin: 0 auto;
+    font-weight: 300;
+}
+ /* Section Here Team END */
