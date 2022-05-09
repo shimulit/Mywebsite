@@ -218,10 +218,83 @@ a{
     font-weight: 350;
 }
 .state-part-two h1{
-    font-weight: 400;
+    font-weight: 500;
 }
 .stats-area {
     padding-left: 90px;
+} /* Section Here Stats END */
+
+/* Section Here Pricing Start */
+
+.pricing-area{
+    margin: 100px 0px 70px 120px;
+
+}
+.pricing h1{
+    font-size: 35px;
+    font-weight: 400;
+    color: #F56108;
+    text-align: center;
+    margin-bottom: 22px;
+}
+.pricing p{
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 15px;
+    margin-bottom: 80px;
+} /* Section Here Pricing END */
+
+/* Pricing Table Start */
+
+#pricing-table{
+    width: 350px;
+    height: 550px;
+    border: 1px solid #F56108;
+    text-align: center;
+    line-height: 35px;
+    padding-top: 25px;
+    margin-left: 25px;
+    float: left;
+
 }
 
- /* Section Here Stats END */
+/* Pricing-table-one starting Hera  */
+
+.pricing-table-one{
+    padding-bottom: 40px;
+ 
+}
+
+.pricing-table-one h4{
+    font-weight: 600;
+    color: #201e1e;
+    padding-bottom: 8px;
+}
+.pricing-table-one h3{
+    font-weight: 300;
+    font-size: 25px;
+    color: #F56108;
+    padding-bottom: 25px;
+}
+.pricing-table-one h5{
+    font-weight: 400;
+    padding: 10px 10px;
+}
+.getnow{
+    width: 120px;
+    height: 40px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: #F56108;
+    border: none;
+}
+.getnow a{
+    color: #fff;
+}
+.pricing-table-one hr{
+    opacity: 25%;
+}   /* Pricing-table-one starting Hera  */
+
+/* Pricing Table END */
