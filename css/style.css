@@ -303,11 +303,11 @@ a{
     margin-top: 750px;
     text-align: center;
     background-color: #1d1c1c;
-    height: 600px;
+    height: 650px;
     color: #fff;
 }
 .team{
-    height: 320px;
+    height: 380px;
 }
 .team h1{
     color: #fff;
@@ -342,5 +342,45 @@ a{
     width: 180px;
     margin: 0 auto;
     font-weight: 300;
+} /* Section Here Team END */
+
+/* client photo box Start */
+.box-photo{
+    padding-left: 120px;
+} /* client photo box END */
+
+/* my client Start Here */
+.client-area{
+    background-color: #E6E6E6;
+    margin: 0px 0px 50px 0px;
+    height: 530px;
 }
- /* Section Here Team END */
+.client{
+    padding: 100px 0px 50px 0px;
+    text-align: center;
+}
+.client h1{
+    font-size: 45px;
+    font-weight: 400;
+    color: #F56108;
+    line-height: 90px;
+}
+.client p{
+    width: 750px;
+    margin: 0 auto;
+    font-size: 15px;
+}
+#client-list{
+    width: 280px;
+    height: 135px;
+    margin-left: 3px;
+    float: left;
+}
+#client-list img{
+    padding-left: 20px;
+}
+.client-photo-box{
+    background-color: #fff;
+    padding-left: 50px;
+}
+/* my client END Here */
