@@ -382,5 +382,60 @@ a{
 .client-photo-box{
     background-color: #fff;
     padding-left: 50px;
+}  /* my client END Here */
+
+/* This is Contact Part Start  */
+.main-contact-part{
+    height: 500px;
 }
-/* my client END Here */
+.contact{
+    padding-top: 40px;
+}
+.contact h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    padding-bottom: 12px;
+    color: #F56108;
+}
+.contact p{
+    width: 850px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 14px;
+    line-height: 20px;
+    padding-bottom: 30px;
+} 
+
+/* form-part star */
+.form-main-part{
+    margin-left: 150px;
+}
+ .form input{
+     width: 550px;
+     height: 50px;
+     padding-left: 10px;
+ }
+ .form textarea{
+    padding: 10px 10px;
+ }
+ .submt{
+     margin-left: 500px;
+     margin-top: 10px;
+     margin-bottom: 80px;
+     width: 200px;
+     height: 60px;
+     background-color: #F56108;
+     border: none;
+     font-size: 20px;
+     padding: 10px 10px;
+     color: #fff;
+     font-weight: 300;
+ }
+
+
+/* form-part END */
+
+
+
+/* This is Contact Part END  */
