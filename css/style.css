@@ -9,6 +9,7 @@
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
 }
  /* Logo-scction-here */
 .head{
@@ -431,11 +432,66 @@ a{
      padding: 10px 10px;
      color: #fff;
      font-weight: 300;
- }
-
-
-/* form-part END */
-
-
-
+ } /* form-part END */
 /* This is Contact Part END  */
+
+/* This is Footer Part Start */
+#footer-col-full{
+    width: 100%;
+    height: 400px;
+    background-color: #201e1e;
+    margin-top: 100px;
+    padding-left: 120px;
+}
+ .footer-col-33{
+    width: 33.33%;
+    color: #aaa6a6;
+    padding: 80px 85px 0px 0px;
+    float: left;
+ }
+ .footer-col-33 h1{
+    color: #FFFFFF;
+
+ }
+ .footer-col-33 p{
+     font-size: 12px;
+     font-weight: 300;
+     line-height: 15px;
+ }
+.newsup{
+    font-size: 18px;
+    padding-bottom: 15px;
+    font-weight: 300;
+}
+
+.newsuph1{
+    font-size: 18px;
+    padding-bottom: 15px;
+    font-weight: 300;
+}
+.newsupar{
+    padding-top: 8px;
+    font-weight: 300;
+    font-size: 12px;
+}
+/* Social Media Link  Start Here */
+#social-link{
+    margin-top: -115px;
+    padding-left: 510px;
+
+}
+.social-media{
+    color: #fff;
+}
+.social-media h1{
+    float: left;
+    padding-left: 20px; 
+} /* Social Media Link  END Here */
+.linebr{
+    padding-top: 50px;
+    margin-left: -90px;
+    color: #c7c5c5;
+}
+
+
+/* This is Footer Part END */
